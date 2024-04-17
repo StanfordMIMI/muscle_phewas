@@ -1,9 +1,11 @@
 # Overview
 Official implementation for: Abdominal CT Metrics in 17,646 Patients Reveal Associations between Myopenia, Myosteatosis, and Medical Phenotypes: A Phenome-Wide Association Study (eBioMedicine, 2024).
 
-## Paper Website
+## Manuscript Website and Full-Text
 
 The [paper website](https://musclephewas.github.io) includes interactive visualizations of the paper's main findings, in addition to a searchable results table.
+
+The [full text](https://doi.org/10.1016/j.ebiom.2024.105116) is available as an open access article.
 
 ## Paper Abstract
 
